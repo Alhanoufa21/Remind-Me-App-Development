@@ -19,12 +19,7 @@ Technologies
 Frontend Development: Developed using JavaScript and React Native for cross-platform functionality.
 Backend Integration: Firebase is used for database management, providing a reliable and scalable backend solution.
 UI/UX Design: Focused on creating a user-friendly interface that enhances user interaction and satisfaction.
-Screenshots
 
-Here are some screenshots of the app in action:
-
-image
-image
 
 ## Skills
 
