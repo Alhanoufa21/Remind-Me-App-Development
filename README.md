@@ -11,13 +11,18 @@ The objective of this project is to develop 'Remind Me', a comprehensive mobile 
 ## Features
 
 Task Scheduling: Allows users to schedule tasks with due dates and reminders.
+
 Real-time Reminders: Sends notifications to ensure users are aware of upcoming tasks and appointments.
+
 Intuitive UI/UX: Designed for ease of use, ensuring that users can quickly adapt and manage their schedules efficiently.
+
 Database Syncing: Uses Firebase for secure, real-time data synchronization across devices.
 Technologies
 
 Frontend Development: Developed using JavaScript and React Native for cross-platform functionality.
+
 Backend Integration: Firebase is used for database management, providing a reliable and scalable backend solution.
+
 UI/UX Design: Focused on creating a user-friendly interface that enhances user interaction and satisfaction.
 
 
