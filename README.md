@@ -44,4 +44,6 @@ This project provided hands-on experience in:
 - Designing intuitive user interfaces that enhance user experience.
 - Managing project workflows and solving practical problems in mobile app development.
 
+## Skills:
+Mastering JavaScript and React Native · Firebase Integration · UI/UX Design Principles · React Native Components Utilization · Navigation and Workflow Implementation · Date and Time Handling
 
